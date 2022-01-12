@@ -4,6 +4,7 @@
 # Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
 
 def main(msg):
+	//print a mesage
     print(msg)
 
 main("Hello people")
